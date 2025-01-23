@@ -1,0 +1,6 @@
+[{"questions_text": "How many legs does a cow have?" ,
+  "answers_text": ["One", "Two", "Three", "Four"],
+  "correct_answer": 4},
+{"questions_text": "How many legs does a human have?" ,
+  "answers_text": ["One", "Two", "Three", "Four"],
+  "correct_answer": 2}]
